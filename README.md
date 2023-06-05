@@ -1,7 +1,7 @@
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d56e91&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d56e91&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Eduarda+Coffacci;Apaixonada+por+tecnologia;+e+pelo+desenvolvimento+web;a+tecnologia+é+o+que+me+move;+a+buscar+sempre+o+melhor;a+ultrapassar+limites+e;+sempre+criar+algo+novo;+Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d56e91&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Eduarda+Coffacci;Apaixonada+por+tecnologia;+e+pelo+desenvolvimento+web;a+tecnologia+é+o+que+me+move;+a+buscar+sempre+o+melhor;a+ultrapassar+limites+;e+sempre+criar+algo+novo;+Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  ![gif](https://github.com/EduardaCoffacci/EduardaCoffacci/blob/main/32147-cute-cat-works-unscreen.gif)
  
@@ -11,6 +11,11 @@
  <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EduardaCoffacci&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardaCoffacci&show_icons=true&count_private=true&hide_border=true&title_color=5d3648&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Maria Eduarda github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaCoffacci&layout=compact&hide_border=true&title_color=5d3648&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 <hr>
 
