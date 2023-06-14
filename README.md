@@ -12,10 +12,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=EduardaCoffacci&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardaCoffacci&show_icons=true&count_private=true&hide_border=true&title_color=5d3648&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Maria Eduarda github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaCoffacci&layout=compact&hide_border=true&title_color=5d3648&text_color=00bfbf&bg_color=0d1117" />
+
+<div align="center">
+  <a href="https://github.com/EduardaCoffacci">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardaCoffacci&show_icons=true&rank_icon=github&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaCoffacci&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+  
+
+
+
+
+
 
 <hr>
 
