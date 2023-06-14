@@ -13,7 +13,7 @@
 </p>
 
 
-<div align="center">
+<div  style="display: flex" align="center">
   <a href="https://github.com/EduardaCoffacci">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardaCoffacci&show_icons=true&rank_icon=github&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaCoffacci&layout=compact&langs_count=7&theme=github_dark"/>
