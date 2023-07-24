@@ -69,8 +69,6 @@
 </div>
 
  
- ![snake gif](https://github.com/EduardaCoffacci/EduardaCoffacci/blob/output/github-contribution-grid-snake.svg)
- 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d56e91&height=120&section=footer"/>
 
 
