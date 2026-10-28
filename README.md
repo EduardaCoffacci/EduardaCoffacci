@@ -7,7 +7,7 @@
 
 Sou Desenvolvedora de Software, formada em Análise e Desenvolvimento de Sistemas, com experiência prática no desenvolvimento de aplicações web utilizando React, Next.js, TypeScript e Tailwind CSS.
 
-Também atuo no desenvolvimento Back-end com Node.js e NestJS, criando APIs REST, integrando Front-end e Back-end e trabalhando com bancos de dados relacionais (SQL) e não relacionais (NoSQL).
+Também trabalho com Back-end utilizando Node.js e NestJS, desenvolvendo APIs REST e atuando na integração entre Front-end, Back-end e bancos de dados SQL e NoSQL.
 
 Gosto de aprender na prática, desenvolver projetos reais e compreender todo o fluxo de uma aplicação, desde a interface até a comunicação com o servidor e o banco de dados. Busco evoluir continuamente minhas habilidades técnicas e contribuir para o desenvolvimento de soluções eficientes e bem estruturadas.
 
